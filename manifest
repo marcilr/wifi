@@ -13,15 +13,8 @@
 # Have not escaped these dashes in any way.   Might do this at some point.
 #
 
-# =====================================================================
-# =====================================================================
-#
-# Private htpc repositories
-# Public GitHub repositories
-#
-# =====================================================================
-# =====================================================================
-
+# dd-wrt open source firmware
+ssh://git@github.com/marcilr/dd-wrt    dd-wrt
 
 # Linksys wireless routers
 ssh://git@github.com/marcilr/linksys   linksys
